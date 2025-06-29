@@ -25,7 +25,7 @@ A modern, full-featured blog platform built with React, Node.js, and MongoDB. Fe
 1. **Clone the repository:**
    ```bash
    git clone <https://github.com/PLP-MERN-Stack-Development/week-4-mern-integration-assignment-DukeMochama2022.git>
-   cd authentication
+   cd week-4-mern-integration-assignment-DukeMochama2022
    ```
 2. **Install dependencies:**
    ```bash
@@ -87,6 +87,10 @@ A modern, full-featured blog platform built with React, Node.js, and MongoDB. Fe
 
 ## 🖼️ Screenshots
 
+### Authentication
+
+![Authentication](frontend/src/assets/auth.png)
+
 ### Home Page
 
 ![Home Page](frontend/src/assets/Home.png)
@@ -94,6 +98,13 @@ A modern, full-featured blog platform built with React, Node.js, and MongoDB. Fe
 ### Blog List
 
 ![Blog List](frontend/src/assets/Blogs.png)
+
+
+### Category List
+![Blog List](frontend/src/assets/category.png)
+
+
+
 
 ---
 
